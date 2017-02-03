@@ -1,0 +1,33 @@
+body {
+	background-image: url("bg.jpg");
+}
+
+#header {
+	color: #f9ebd9;
+	font-style: italic;
+	font-family: verdana;
+	font-weight: 10px;
+	font-size: 80px;
+	border-style: double;
+	border-width: 15px;
+	border-color: #C4BDB4;
+	text-shadow: 10px 3px #846C4E;
+}
+
+#img {
+	border-style: inset;
+	border-color: #E2B073;
+	border-width: 30px;
+	outline-style: double;
+	outline-width: 20px;
+	outline-color: #684D2B;
+	margin-bottom: 120px;
+
+}
+
+h2 {
+	color: #F9F2E8;
+	font-weight: 10px;
+	font-size: 40px;
+	text-shadow: 5px 2px #846C4E;
+}
